@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidHomeWorkSeven</string>
+    <string name="start_btn_text">Нажми на меня!</string>
+    <string name="press_me">Press me!</string>
+</resources>

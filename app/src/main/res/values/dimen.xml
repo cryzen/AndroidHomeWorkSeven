@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="square">40dp</dimen>
+    <dimen name="big_square">60dp</dimen>
+    <dimen name="rectangle_height">20dp</dimen>
+    <dimen name="big_rectangle_height">120dp</dimen>
+</resources>
